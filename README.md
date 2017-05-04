@@ -28,6 +28,10 @@ PPMessage includes a series of frontend SDK named **PPCom** which run on your vi
 
 ## EASY START
 
+> Prerequisites
+
+Install redis.
+
 > Clone
 
 ```bash
